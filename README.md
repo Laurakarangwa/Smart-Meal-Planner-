@@ -9,7 +9,7 @@ This README documents how the app was containerized using Docker, deployed on tw
 
 ## Docker Hub Repository
 
-- **Repository URL**: [Docker Hub](https://hub.docker.com/repository/docker/laurakarangwa/smartmealplanner/general))
+- **Repository URL**: [Docker Hub](https://hub.docker.com/repository/docker/laurakarangwa/smartmealplanner/general)
 - **Image Name**: `laurakarangwa/smartmealplanner	`
 - **Tags**:
   - `latest`
@@ -67,7 +67,7 @@ docker run --env-file .env laurakarangwa/smartmealplanner:latest
 ### Getting Started
 
 - `Web browsers (Chrome, Edge, etc.)`
-- `An internet connection to fetch food expiry tracker from OpenFoodFacts API`
+- `An internet connection to fetch food expiry tracker from Spoonacular Food API`
 
 ### Installation
 #### Clone the repository:
