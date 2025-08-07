@@ -83,6 +83,10 @@ Developed by:
 
 ***Laura KARANGWA KWIZERA***
 
+
+
+
+
 # Smart-Meal-Planner-
 The following are the screenshots of my app running in browser 
 <img width="1366" height="691" alt="web-01" src="https://github.com/user-attachments/assets/50d842c3-3e69-491f-ba84-f639ab507f3e" />
