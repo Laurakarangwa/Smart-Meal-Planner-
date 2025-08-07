@@ -67,7 +67,7 @@ docker run --env-file .env laurakarangwa/smartmealplanner:latest
 ### Getting Started
 
 - `Web browsers (Chrome, Edge, etc.)`
-- `An internet connection to fetch food expiry tracker from Spoonacular Food API`
+- `An internet connection to fetch Smart Meal Planner from Spoonacular Food API`
 
 ### Installation
 #### Clone the repository:
