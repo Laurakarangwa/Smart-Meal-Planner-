@@ -1,5 +1,5 @@
 
-# Smart Meal Planne Web App
+# Smart Meal Planner Web App
 
 The **Smart Meal Planner** is a web application that wisely advises the users on the right and helpful meals to take, referring to goal they have related to their weight and fitness. It also provides the youtube link of how to prepare those meals. When you need more meals, it again regenerates the plan for you continuously. 
 
